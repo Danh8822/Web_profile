@@ -8,10 +8,9 @@ import js from '../../Assets/js.png';
 const Hero = () => {
     return <section className='hero-container'>
         <div className='hero-content'>
-            <h2>Building Digital Experiences That Inspire</h2>
+            <h2>PHAN NGOC DANH</h2>
             <p>
-                Passionate Frontend Developer | Transforming Ideas into Seamless and
-                Visually Stunning Web Solutions
+               Frontend Developer 
             </p>
         </div>
 
